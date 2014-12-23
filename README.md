@@ -1,4 +1,4 @@
 Repositoty-name
 ===============
 
-Description
+Description 新人研修
